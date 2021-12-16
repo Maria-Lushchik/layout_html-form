@@ -1,4 +1,7 @@
 /* styles go here */
 input {
-    margin: 10px 20px;
+    margin-bottom: 10px;
+}
+div {
+    margin-bottom: 20px;
 }
