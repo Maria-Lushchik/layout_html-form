@@ -1,6 +1,6 @@
 # HTML form
 Replace `Maria-Lushchik` with your Github username and copy the links to Pull Request description:
-- [DEMO LINK](https://<your_account>.github.io/layout_html-form/)
+- [DEMO LINK](https://github.com/Maria-Lushchik)
 - [TEST REPORT LINK](https://<your_account>.github.io/layout_html-form/report/html_report/)
 
 > Follow [this instructions](https://github.com/mate-academy/layout_task-guideline#how-to-solve-the-layout-tasks-on-github)
