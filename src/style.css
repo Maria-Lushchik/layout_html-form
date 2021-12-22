@@ -1,13 +1,13 @@
 /* styles go here */
-fieldset {
+.fieldset {
   margin-bottom: 20px;
 }
 
-input {
+.input {
   margin-bottom: 10px;
 }
 
-input:last-child {
+.input:last-child {
   margin-bottom: 0;
 }
 
@@ -15,6 +15,6 @@ form {
   margin-bottom: 20px;
 }
 
-label {
+.label {
   margin-bottom: 10px;
 }
